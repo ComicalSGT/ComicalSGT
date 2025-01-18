@@ -1,16 +1,19 @@
-## Hi there 👋
+# ComicalSGT
 
-<!--
-**ComicalSGT/ComicalSGT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Steaks:
 
-Here are some ideas to get you started:
+### Coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![autocomplete](https://codeium.com/badges/user/comical/autocomplete)](https://codeium.com/profile/comical)
+
+[![streak](https://codeium.com/badges/v2/user/comical/streak)](https://codeium.com/profile/comical)
+
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
+
+### Github
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ComicalSGT&show_icons=true&theme=transparent&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ComicalSGT&theme=transparent)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ComicalSGT&theme=transparent)
